@@ -1,19 +1,28 @@
-### Hi there 👋
+### Hi 👋 I'm Juhyun.
+🎓 College student<br>
+🌱 Learning Web & AI
+
+### Study
+- Hanium Project : Comparison of real estate index prediction models using machine learning and deep learning
+- Club : <a herf= "https://www.notion.so/Dongduk-AI-Learning-Crew-e0525781c75345bf944c01119270a9e6">Dalc 1st</a> , 
+         <a herf= "https://ddwoutlier.github.io/outlier.github.io/index.html">Outlier 2nd</a>
 
 <div align = "center">
-  <h3 align="center">🛠️ 활용 가능 언어 🛠️</h3>
+  <h3 align="center">🛠️ Tech Stack 🛠️</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/R-A8B9CC?style=flat-square&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <br/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <br/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=MongoDB&Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUHYUN030&show_icons=true&theme=radical)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUHYUN030)
+
 
 
 </div>
