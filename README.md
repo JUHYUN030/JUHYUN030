@@ -6,7 +6,7 @@
 - Hanium Project : Comparison of real estate index prediction models using machine learning and deep learning
 - Club : <a href= "https://www.notion.so/Dongduk-AI-Learning-Crew-e0525781c75345bf944c01119270a9e6">Dalc 1st & 2nd</a> , 
          <a href= "https://ddwoutlier.github.io/outlier.github.io/index.html">Outlier 2nd</a>
-- AI Bootcamp : AIFFEL X SOCAR
+- AI Bootcamp : <a href= "https://aiffel.io/">AIFFEL X SOCAR 3rd</a>
 
 <div align = "center">
   <h3 align="center">🛠️ Tech Stack 🛠️</h3>
